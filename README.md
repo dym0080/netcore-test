@@ -1,4 +1,5 @@
 # netcore-test
+> 开发工具采用VS2017
 
 ## RazorPagesMovie
 第一次学习.NET core时自己练习的代码
