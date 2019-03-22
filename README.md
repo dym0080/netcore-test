@@ -8,3 +8,7 @@
 ## MvcMovie
 学习ASP.NET Core MVC的web应用的代码
 教程地址：[使用 ASP.NET Core MVC 创建 Web 应用](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-2.2) 
+
+## TodoApi
+学习ASP.NET Core Web的WebAPI应用的代码
+教程地址：[使用 ASP.NET Core MVC 创建 Web API](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio) 
